@@ -178,3 +178,28 @@ height:180px;
 resize:none;
 
 }
+table{
+
+width:100%;
+
+border-collapse:collapse;
+
+margin-top:30px;
+
+}
+
+th,td{
+
+padding:15px;
+
+border-bottom:1px solid #374151;
+
+text-align:left;
+
+}
+
+th{
+
+background:#1f2937;
+
+}
